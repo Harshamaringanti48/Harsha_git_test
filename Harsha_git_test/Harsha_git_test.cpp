@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 <<<<<<< HEAD
-    cout << "Hello from Kennedy! This is my first Git commit by harsha.." << endl;
+    cout << "Hello from Kennedy! This is my first Git commit by harsha..." << endl;
 =======
     cout << " This is my first Git commit by harsha" << endl;
 >>>>>>> feature/har
